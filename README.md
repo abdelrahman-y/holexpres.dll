@@ -1,7 +1,12 @@
 # holexpres.dll
-holiday express crack
-you can get the game from [here] [https://www.apunkagames.biz/2015/06/holiday-express-game.html]
-instructions:
-1.download the game
-2.unpack game files
-3.replace holexpres.dll with one in releases
+crack for trial version of Holiday Express  
+==========================================
+
+you can get the game from [here] (https://www.apunkagames.biz/2015/06/holiday-express-game.html)
+instructions:'
+1. Download the game
+2. Unpack game files
+3. Replace holexpres.dll with one in releases
+'  
+
+details: bypassed trial check and marked as Full-Version 
