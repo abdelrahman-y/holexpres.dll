@@ -5,7 +5,7 @@ crack for trial version of Holiday Express
 details:   
 ----------
 
-bypassed trial check and marked as Full-Version. 
+Patched game file for Full-version. 
 
 instructions:  
 ---------------
